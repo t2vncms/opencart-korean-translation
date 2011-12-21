@@ -9,8 +9,8 @@ $_['decimal_point']           = '.';
 $_['thousand_point']          = ',';
 
 // Text
-$_['text_yes']                = 'Yes';
-$_['text_no']                 = 'No';
+$_['text_yes']                = '네';
+$_['text_no']                 = '아니요';
 $_['text_enabled']            = 'Enabled';
 $_['text_disabled']           = 'Disabled';
 $_['text_none']               = ' --- None --- ';
